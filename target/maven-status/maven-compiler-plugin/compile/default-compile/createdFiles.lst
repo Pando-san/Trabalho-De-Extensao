@@ -1,0 +1,7 @@
+com\org\sistemagerenciamento\HistoricoMovimentacao.class
+com\org\sistemagerenciamento\SistemaGerenciamento.class
+com\org\sistemagerenciamento\Estoque.class
+com\org\sistemagerenciamento\Produto.class
+com\org\sistemagerenciamento\ProdutoDAO.class
+com\org\sistemagerenciamento\Categoria.class
+com\org\sistemagerenciamento\DataBaseConnection.class
